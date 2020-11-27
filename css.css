@@ -348,7 +348,7 @@
     display: none;
   }
 
-  body {
+  ＊ {
     background-color: #ece4e2;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     letter-spacing: 1px;
